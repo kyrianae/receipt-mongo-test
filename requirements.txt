@@ -1,0 +1,6 @@
+requests
+flask
+# json
+beautifulsoup4
+python-marmiton
+pymongo
